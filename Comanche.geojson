@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "Comanche",
+"name": "Comanche2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "OID_": 0, "Name": "Comanche", "FolderPath": "Linea frontal.kml", "SymbolID": 0, "AltMode": 0, "Base": 0.0, "Clamped": -1, "Extruded": 0, "Snippet": null, "PopupInfo": null, "Shape_Leng": 0.00227135588212 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -106.29449783799997, 29.009865853000086, 0.0 ], [ -106.29447867199994, 29.005364774999986, 0.0 ] ] ] } },
